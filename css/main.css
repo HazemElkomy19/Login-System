@@ -1,0 +1,31 @@
+body{
+  font-family: "Titillium Web", sans-serif;
+  background-color: #24353F;
+}
+h1{
+  color: rgb(23, 162, 184);
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.welcome{
+  box-shadow: 5px 10px 10px 10px rgba(0, 0, 0, 0.5);
+  background-color: #24353F;
+}
+
+.navbar{
+  box-shadow: 1px 10px 10px rgba(0, 0, 0, 0.5);
+  background-color: #24353F;
+}
+
+
+
+#logoutButton{
+  border: 1px solid #FFC107;
+  color: #CED4DA;
+  transition: all 0.2s;
+}
+
+#logoutButton:hover{
+  background-color: #FFC107;
+}
